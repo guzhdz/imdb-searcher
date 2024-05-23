@@ -1,18 +1,6 @@
-# Trabajo libre 06 Vuejs
-
-## Objetivo
-Genera una aplicacion utilizando Vue.js
-An approachable, performant and versatile framework for building web user interfaces.
-
-https://vuejs.org/
-
-Tutorial
-https://vuejs.org/tutorial/#step-1
-
-
-Entregable
-
-1-Código fuente en un repositorio de github
+# IMDB Searcher
+Este proyecto consta de un pequeño buscador de peliuclas y series con unos filtros por categoria y que muestra la informacion general del resultado,
+esta informacion es la guardada en la plataforma de IMDB y proporcionada por una API.
 
 ## Resultados
 Link: [https://guzhdz.github.io/Trabajo-libre-06-Vuejs/](https://guzhdz.github.io/Trabajo-libre-06-Vuejs/)
